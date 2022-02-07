@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boddeti21
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on Data Science project
 - 📫 How to reach me tanujalakshmi21@gmail.com
 
 <!---
