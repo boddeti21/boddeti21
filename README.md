@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @boddeti21
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m an aspiring Data Scientist| Data Analyst
+- 🌱 I’m currently working in Amazon as ML Data Associate
 - 💞️ I’m looking to collaborate on Data Science project
-- 📫 How to reach me tanujalakshmi21@gmail.com
-
-<!---
-boddeti21/boddeti21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
+SOCIAL PLATFORMS:
+Linkedin : https://www.linkedin.com/in/boddeti-tanuja-lakshmi-497848184/
+Gmail : tanujalakshmi21@gmail.com
