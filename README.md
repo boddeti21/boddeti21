@@ -11,12 +11,10 @@
 
 <div align="center">  
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/python.svg" alt="gcp"/> 
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/vscode.svg" alt="gcp"/> boddeti21
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/jupyter.svg" alt="gcp"/>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/git.svg" alt="gcp"/>
     <a href="https://html5.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/html-5.svg" alt="gcp"/>
     <a href="https://www.w3.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/css-3.svg" alt="gcp"/>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/django.svg" alt="gcp"/>  
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/pandas.svg" alt="gcp"/> 
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/numpy.svg" alt="gcp"/>  
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/matplotlib.svg" alt="gcp"/>  
@@ -24,5 +22,4 @@
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/tensorflow.svg" alt="gcp"/>  
     <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/excel.svg" alt="gcp"/>
     <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/rrr.svg" alt="gcp"/>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/boddeti21/boddeti21/blob/main/Images/forthebadge/fastapi.svg" alt="gcp"/>
 </div>
