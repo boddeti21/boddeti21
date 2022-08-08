@@ -1,5 +1,5 @@
 Hi,👋 I’m Boddeti Tanuja Lakshmi
-Welcome to my Github Page
+- Welcome to my Github Page
 
     - I completed my B.Tech in ECE in the year 2018 from Vignan's institute of engineering for women, Visakhapatnam. 
     - I’m interested in learning new things and share my knowledge with those around me
