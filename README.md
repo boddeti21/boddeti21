@@ -6,6 +6,6 @@ Welcome to my Github Page
     - I’m currently working as Machine Learning Data Associate in Amazon.
     - I’m looking to collaborate on Data Science Project and do research in Statistics as well.
 
-Connect with me
-Gmail: tanujalakshmi21@gmail.com
-LinkedIn https://www.linkedin.com/in/boddeti-tanuja-lakshmi-497848184/
+Connect with me:
+- Gmail: tanujalakshmi21@gmail.com
+- LinkedIn https://www.linkedin.com/in/boddeti-tanuja-lakshmi-497848184/
