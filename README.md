@@ -1,11 +1,11 @@
-# Hi there, I'm John Doe! 👋
+# Hi there, I'm Tanuja Lakshmi Boddeti! 👋
 
 <div align="center">
     <!-- Heading and Intro -->
     <h2>Welcome to My GitHub Profile</h2>
-    <p>I'm a passionate software developer with a love for coding, creating, and contributing to open-source projects.</p>
+    <p>Driven by a passion for uncovering insights and solving problems, I'm diving deep into the world of data and business analysis to transform raw data into strategic decisions.</p>
     <!-- Bouncing Profile Picture -->
-    <img src="https://avatars.githubusercontent.com/u/99160516?s=96&v=4" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; animation: bounce 2s infinite;">
+    <img src="https://avatars.githubusercontent.com/u/99160516?s=400&u=e4f7be7bca0bcfe9a6bca235f10f6b5d0a9703c7&v=4" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; animation: bounce 2s infinite;">
     <!-- About Me Section with Styled Text -->
     <h3 style="color: #0078D4; font-weight: bold;">About Me</h3>
     <p>I'm skilled in <strong>MSSQLServer</strong>, <strong>Python</strong>, <strong>PowerBI</strong>, <strong>Tableau</strong>, <strong>Excel</strong>, <strong>Rlanguage</strong>, <strong>MachineLearning</strong>, <strong>Numpy</strong> and <strong>Pandas</strong>. I love building web applications and learning new technologies!</p>
