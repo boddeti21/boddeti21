@@ -1,49 +1,85 @@
-# Hi there, I'm Tanuja Lakshmi Boddeti! 👋
+## Hey 👋, I'm Tanuja Lakshmi!  
+  
+
+<a href="https://github.com/boddeti21" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanuja-boddeti/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
+
+
+
+### Glad to see you here!  
+SQL DBA | Enthusiast in Machine Learning & Data Analytics | Exploring ways to optimize data systems
+
+I am an experienced SQL Database Administrator with a solid track record in managing, optimizing, and securing databases. With a keen interest in Machine Learning and Data Analytics, I am passionate about leveraging data to derive meaningful insights and improve decision-making processes. Currently exploring the intersection of data management and AI to build intelligent, data-driven solutions. Always eager to learn and apply new technologies in the evolving data landscape.  
+  
+
+<br/>  
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working as SQL Database Administrator in [Dassault Systems](https://www.3ds.com/)  
+  
+
+- 🌱 I’m currently passionate in learning Machine Learning & Data Analytics  
+  
+
+- ⚡ Fun fact: When I’m not diving into data, you can find me experimenting with data-driven recipes in the kitchen, blending my love for analytics with culinary creativity!  
+
+
+</td><td valign="top" width="50%">
 
 <div align="center">
-    <!-- Heading and Intro -->
-    <h2>Welcome to My GitHub Profile</h2>
-    <p>Driven by a passion for uncovering insights and solving problems, I'm diving deep into the world of data and business analysis to transform raw data into strategic decisions.</p>
-    <!-- Bouncing Profile Picture -->
-    <img src="https://avatars.githubusercontent.com/u/99160516?s=400&u=e4f7be7bca0bcfe9a6bca235f10f6b5d0a9703c7&v=4" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; animation: bounce 2s infinite;">
-    <!-- About Me Section with Styled Text -->
-    <h3 style="color: #0078D4; font-weight: bold;">About Me</h3>
-    <p>I'm skilled in <strong>MSSQLServer</strong>, <strong>Python</strong>, <strong>PowerBI</strong>, <strong>Tableau</strong>, <strong>Excel</strong>, <strong>Rlanguage</strong>, <strong>MachineLearning</strong>, <strong>Numpy</strong> and <strong>Pandas</strong>. I love building web applications and learning new technologies!</p>
-    <!-- Spinning SVG Circle Animation -->
-    <div style="animation: spin 4s linear infinite; margin: 20px auto;">
-        <svg xmlns="http://www.w3.org/2000/svg" height="100" width="100" viewBox="0 0 100 100">
-            <circle cx="50" cy="50" r="40" stroke="#00FF00" stroke-width="5" fill="none" />
-        </svg>
-    </div>
-    <!-- Call to Action and Social Links -->
-    <p>Let's connect! Follow me on:</p>
-    <p>
-        <a href="mailto:your-boddetitl@gmail.com" class="gmail-link"" target="_blank">
-            <img src="https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
-        </a>
-        <a href="https://www.linkedin.com/in/tanuja-boddeti/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-    </p>
-</div>
+<img src="https://boddeti21.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
-<!-- CSS Animations -->
-<style>
-    @keyframes bounce {
-        0%, 100% {
-            transform: translateY(0);
-        }
-        50% {
-            transform: translateY(-20px);
-        }
-    }
 
-    @keyframes spin {
-        from {
-            transform: rotate(0deg);
-        }
-        to {
-            transform: rotate(360deg);
-        }
-    }
-</style>
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="center">  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=boddeti21&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boddeti21&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
