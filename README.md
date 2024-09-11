@@ -10,7 +10,7 @@ I am an experienced SQL Database Administrator with a solid track record in mana
 
 - 🔭 I’m currently working as SQL Database Administrator in [Dassault Systems](https://www.3ds.com/)  
 
-- 🌱 I’m currently passionate in learning Machine Learning & Data Analytics  
+- 🌱 I’m passionate in learning Machine Learning & Data Analytics  
   
 - ⚡ Fun fact: When I’m not diving into data, you can find me experimenting with data-driven recipes in the kitchen, blending my love for analytics with culinary creativity!  
 
@@ -37,5 +37,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:boddetitl@gmail.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon.png" alt="Gmail" style="margin-bottom: 5px;" />
-</a><p>
+<img src=https://img.shields.io/badge/Gmailn-%231E77B5.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
+</a> <p>
