@@ -8,11 +8,11 @@ I am an experienced SQL Database Administrator with a solid track record in mana
 ## Bio
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working as SQL Database Administrator in [Dassault Systems](https://www.3ds.com/)  
+🔭 I’m currently working as SQL Database Administrator in [Dassault Systems](https://www.3ds.com/)  
 
-- 🌱 I’m passionate in learning Machine Learning & Data Analytics  
-  
-- ⚡ Fun fact: When I’m not diving into data, you can find me experimenting with data-driven recipes in the kitchen, blending my love for analytics with culinary creativity!  
+🌱 I’m passionate in learning Machine Learning & Data Analytics  
+
+⚡ Fun fact: When I’m not diving into data, you can find me experimenting with data-driven recipes in the kitchen, blending my love for analytics with culinary creativity!  
 
 
 <h2>🚀 Languages and Tools I Use</h2>
