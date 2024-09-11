@@ -17,14 +17,15 @@ I am an experienced SQL Database Administrator with a solid track record in mana
 
 <h2>🚀 Languages and Tools I Use</h2>
 
-p><a href="https://https://www.sqlservertutorial.net/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL Server" width="42" height="42" /></a>  
+<p><a href="https://https://www.sqlservertutorial.net/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL Server" width="42" height="42" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="42" height="42" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" width="42" height="42" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" width="42" height="42" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" width="42" height="42" /></a>  
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42" /></a>  
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="Numpy" width="42" height="42" /></a>  
-<a href="https://www.w3schools.com/python/python_ml_getting_started.asp" target="_blank"><img style="margin: 10px" src="![https://www.svgrepo.com/show/303229/machine-learning-logo.svg" alt="Machine Learning](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/machinelearning/machinelearning-original.svg)" width="42" height="42" /></a><p>
+<a href="https://www.w3schools.com/python/python_ml_getting_started.asp" target="_blank"><img style="margin: 10px"
+src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/machinelearning/machinelearning-original.svg" alt="Machine Learning" width="42" height="42" /></a><p>
 
 
 <h2>⚡️ Where to find me</h2>
@@ -36,5 +37,5 @@ p><a href="https://https://www.sqlservertutorial.net/" target="_blank"><img styl
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:boddetitl@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-%231E77B5.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-%231E77B5.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a><p>
