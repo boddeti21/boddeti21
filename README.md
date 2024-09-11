@@ -36,5 +36,5 @@ src="https://t4.ftcdn.net/jpg/02/09/19/15/360_F_209191528_GYzxi0vEm0fV8oyqIWbmkg
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:boddetitl@gmail.com" target="_blank">
-<img src=https://wallpapers.com/images/hd/gmail-background-zsyjopx1r5l5izz0.jpg&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Gmail-%231E77B5.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a><p>
