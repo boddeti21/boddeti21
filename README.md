@@ -7,6 +7,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tanuja-boddeti/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:your-boddetitl@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-%231E77B5.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
+</a>  
   
 
 
@@ -63,23 +66,8 @@ I am an experienced SQL Database Administrator with a solid track record in mana
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boddeti21&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
 
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
