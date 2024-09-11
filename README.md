@@ -1,28 +1,25 @@
-# Hi there, I'm Tanuja Lakshmi Boddeti 👋
+# Hi there, I'm John Doe! 👋
 
 <div align="center">
+    <!-- Heading and Intro -->
     <h2>Welcome to My GitHub Profile</h2>
-    <p>Driven by a passion for uncovering insights and solving problems, I'm diving deep into the world of data and business analysis to transform raw data into strategic decisions.</p>
-
-    <!-- Profile Picture -->
-    <img src=""D:\Tanuja Personal\Photos\Pic.jpg"" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; animation: bounce 2s infinite;">
-
-    <!-- Animated Text -->
+    <p>I'm a passionate software developer with a love for coding, creating, and contributing to open-source projects.</p>
+    <!-- Bouncing Profile Picture -->
+    <img src="https://avatars.githubusercontent.com/u/99160516?s=96&v=4" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; animation: bounce 2s infinite;">
+    <!-- About Me Section with Styled Text -->
     <h3 style="color: #0078D4; font-weight: bold;">About Me</h3>
-    <p>I am skilled in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>Python</strong>!</p>
-
-    <!-- Spinning Circle Animation -->
+    <p>I'm skilled in <strong>MSSQLServer</strong>, <strong>Python</strong>, <strong>PowerBI</strong>, <strong>Tableau</strong>, <strong>Excel</strong>, <strong>Rlanguage</strong>, <strong>MachineLearning</strong>, <strong>Numpy</strong> and <strong>Pandas</strong>. I love building web applications and learning new technologies!</p>
+    <!-- Spinning SVG Circle Animation -->
     <div style="animation: spin 4s linear infinite; margin: 20px auto;">
         <svg xmlns="http://www.w3.org/2000/svg" height="100" width="100" viewBox="0 0 100 100">
-            <circle cx="50" cy="50" r="40" stroke="#FF4500" stroke-width="5" fill="none" />
+            <circle cx="50" cy="50" r="40" stroke="#00FF00" stroke-width="5" fill="none" />
         </svg>
     </div>
-
-    <!-- Social Links -->
-    <p>Let's connect!</p>
+    <!-- Call to Action and Social Links -->
+    <p>Let's connect! Follow me on:</p>
     <p>
-        <a href="boddetitl@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter">
+        <a href="mailto:your-boddetitl@gmail.com" class="gmail-link"" target="_blank">
+            <img src="https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
         </a>
         <a href="https://www.linkedin.com/in/tanuja-boddeti/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -30,7 +27,7 @@
     </p>
 </div>
 
-<!-- CSS Styling for Animations -->
+<!-- CSS Animations -->
 <style>
     @keyframes bounce {
         0%, 100% {
