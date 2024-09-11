@@ -22,7 +22,7 @@ I am an experienced SQL Database Administrator with a solid track record in mana
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" width="42" height="42" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" width="42" height="42" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" width="42" height="42" /></a>  
-<a href="https://pandas.pydata.org/" target="_blank"><img src="static/pandas-logo.png" alt="Pandas Logo" class="logo" width="42" height="42" /></a>  
+<a href="https://pandas.pydata.org/" target="_blank"><img src="static/pandas-logo.png" alt="Pandas" width="42" height="42" /></a>  
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="static/numpy-logo.png" alt="Numpy" width="42" height="42" /></a>  
 <a href="https://www.w3schools.com/python/python_ml_getting_started.asp" target="_blank"><img style="margin: 10px" src="static/machinelearning-logo.png" alt="Machine Learning" width="42" height="42" /></a><p>
 
