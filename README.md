@@ -25,7 +25,7 @@ I am an experienced SQL Database Administrator with a solid track record in mana
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42" /></a>  
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="Numpy" width="42" height="42" /></a>  
 <a href="https://www.w3schools.com/python/python_ml_getting_started.asp" target="_blank"><img style="margin: 10px"
-src="path/to/your/ml-logo.png" alt="Machine Learning" width="42" height="42" /></a><p>
+src="https://assets/ml-logo.png" alt="Machine Learning" width="42" height="42" /></a><p>
 
 
 <h2>⚡️ Where to find me</h2>
