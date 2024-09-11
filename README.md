@@ -37,5 +37,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:boddetitl@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-%231E77B5.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon.png" alt="Gmail" style="margin-bottom: 5px;" />
 </a><p>
