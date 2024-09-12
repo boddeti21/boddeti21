@@ -17,7 +17,7 @@ I am an experienced SQL Database Administrator with a solid track record in mana
 
 <h2>🚀 Languages and Tools I Use</h2>
 
-<p><a href="https://https://www.sqlservertutorial.net/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL Server" width="42" height="42" /></a>  
+<p><a href="https://www.tutorialspoint.com/ms_sql_server/index.htm" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL Server" width="42" height="42" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="42" height="42" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" width="42" height="42" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" width="42" height="42" /></a>  
